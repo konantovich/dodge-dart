@@ -1,0 +1,22 @@
+{
+  "name": "dodge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konantovich/dodge-dart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konantovich/dodge-dart/issues"
+  },
+  "homepage": "https://github.com/konantovich/dodge-dart#readme",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
